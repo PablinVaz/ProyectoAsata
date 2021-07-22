@@ -4,6 +4,10 @@ _Proyecto basado en una empresa ficticia de alquiler de casas rurales._
 
 _Proyecto realizado para el módulo de prácticas profesionales del certificado de profesionalidad:_ IFCD0110 - _Confección y publicación de Páginas Web._
 
+## Echale un ojo 👁️
+
+* [GitHub Pages](https://pablinvaz.github.io/ProyectoAsata/)
+
 ## Construido con 🛠️
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
